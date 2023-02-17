@@ -1,6 +1,6 @@
 # Mojio Keeping Cars Connected #
 
-![](Insurtech.jpg)
+![](Mojio.jpg)
 
 ## Who is Mojio? ##
 
